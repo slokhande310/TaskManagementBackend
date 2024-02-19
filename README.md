@@ -32,7 +32,7 @@ Before running the application, ensure you have the following installed:
 2. Navigate to the project directory:
 
    ```bash
-   https://github.com/slokhande310/TaskManagementBackend.git
+   cd TaskManagementBackend
    ```
 3. Install dependencies:
 
